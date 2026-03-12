@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![snake gif](https://github.com/aditibverse/aditibverse/blob/output/github-snake.svg)
+![snake gif](https://github.com/aditibaghel-git/aditibaghel-git/blob/output/github-snake.svg)
 
 </div>
